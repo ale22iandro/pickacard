@@ -5,3 +5,4 @@ suits = ['Diamonds', 'Hearts', 'Clubs', 'Spades'] # Буби, Черви, Кре
 # Выведем произвольную карты, выбрав по одному элементу из массивов
 puts "#{values.sample} of #{suits.sample}"
 gets
+puts "Missed me?"
